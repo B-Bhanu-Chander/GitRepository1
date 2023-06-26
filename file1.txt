@@ -1,0 +1,4 @@
+This is my first Git file. 
+It was created on 26-June-2023 at 14:35 PM.
+All glory to GOD for helping me to understand and create a Git file.
+Soli Deo Gloria!
